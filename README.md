@@ -1,2 +1,3 @@
 # RondomEmojiCover
-The cover page of "RondomEmoji".
+
+https://happykumamoto.github.io/RandomEmojiCover/
