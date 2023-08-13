@@ -14,16 +14,16 @@ a.btn {
     text-align: center;
     text-decoration: none;
     color: white;
-    width: 120px;
-    height: 120px;
-    padding: 40px 0;
-    line-height: 20px;
-    border: double 4px;
-    border-radius: 50%;
-    vertical-align: middle;
-    overflow: hidden;
-    transition: .6s;
+    width: 60px;
+    height: 20px;
+    padding: 5px 0;
+/*     line-height: 20px; */
+/*     border: double 4px; */
+/*     border-radius: 50%; */
+/*     vertical-align: middle; */
+/*     overflow: hidden; */
+/*     transition: .6s; */
     position:fixed;	
-	bottom:60px;
-	right:540px;
+/* 	bottom:60px; */
+/* 	right:540px; */
 }
