@@ -6,3 +6,24 @@ body{
     margin: 0 auto;
     overflow:hidden;     /*スクロールバーを隠す*/
   }
+
+a.btn {
+    margin: 0 auto;
+    background-size: 120%;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    width: 120px;
+    height: 120px;
+    padding: 40px 0;
+    line-height: 20px;
+    border: double 4px;
+    border-radius: 50%;
+    vertical-align: middle;
+    overflow: hidden;
+    transition: .6s;
+    position:fixed;	
+	bottom:60px;
+	right:540px;
+}
