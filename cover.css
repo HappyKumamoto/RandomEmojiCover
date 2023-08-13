@@ -1,0 +1,8 @@
+body{
+    text-align: center;
+    font-family: sans-serif;
+    color:#FFFFEE;
+    background: linear-gradient(#0077FF, skyblue) fixed;
+    margin: 0 auto;
+    overflow:hidden;     /*スクロールバーを隠す*/
+  }
